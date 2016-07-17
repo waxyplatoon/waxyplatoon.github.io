@@ -1,0 +1,39 @@
+#nav_bar{
+	background-color: #de7f10;
+}
+
+a:hover, a:visited, a:link, a:active
+{
+    text-decoration: none!important;
+    color: #000000;
+}
+
+.navbar-toggle .icon-bar {
+    display: block;
+    width: 22px;
+    height: 2px;
+    background-color: #000000;
+    border-radius: 1px;
+}
+
+.navbar .navbar-collapse {
+    text-align: center;
+}
+
+.navbar .navbar-nav {
+    display: inline-block;
+    float: none;
+    vertical-align: top;
+}
+
+.main_body {
+	padding-top: 50px;
+}
+
+#steamids > a > img{
+	padding-top: 10px;
+}
+
+body {
+	background-color: #f0ae61;
+}
