@@ -56,6 +56,10 @@ body {
 	font-size: 20px;
 }
 
+ul {
+	list-style-type: none;
+}
+
 iframe{
 	padding-top: 10px;
 	display: block;
